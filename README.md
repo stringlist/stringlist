@@ -1,3 +1,3 @@
 **StringList**
 
-*Suite your needs at* (StringList[https://stringlist.glitch.me]
+*Suite your needs at* (https://stringlist.glitch.me)[StringList]
