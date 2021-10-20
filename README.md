@@ -1,3 +1,3 @@
 **StringList**
 
-*Suite your needs at* (https://stringlist.glitch.me)[StringList]
+Closed down forever.
